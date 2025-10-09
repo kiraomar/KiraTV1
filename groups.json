@@ -1,78 +1,92 @@
 {
   "api_status": 1,
   "api_message": "success",
-  "data": [
+  "groups": [
     {
       "id": 10,
       "name_en": "Sport",
       "name_ar": "القنوات الرياضية",
-      "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
-      "sub_icon": "http://tvapi.shabakaty.com/uploads/2017-01/739e135814f83a3121b6bd82c1960749.jpg",
-      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/499d8ef8d795c320bbdd75fee2c4f088.jpg",
-      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
-      "link": "http://tv.mynet.iq?ch=channel1###",
-      "sorting_index": 1,
       "awesome_icon": "fa-futbol"
     },
     {
       "id": 15,
       "name_en": "News",
       "name_ar": "الاخبار",
-      "main_icon": "http://tvapi.shabakaty.com/uploads/2022-01/469f586b3cda993076cefc39bc872a42.jpg",
-      "sub_icon": "http://tvapi.shabakaty.com/uploads/2022-01/bbc5efa03ea16966b75b3b3312060d12.jpg",
-      "logo": "http://tvapi.shabakaty.com/uploads/2022-01/cf93be748ada6579462517cdb176fd23.jpg",
-      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2022-01/c3a1226a95d59f3657c7de499e229ffb.jpg",
-      "link": "http://tv.mynet.iq?ch=channel1#",
-      "sorting_index": 2,
       "awesome_icon": "fa fa-newspaper"
     },
     {
       "id": 11,
       "name_en": "Movies",
       "name_ar": "الافلام",
-      "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
-      "sub_icon": "http://tvapi.shabakaty.com/uploads/2017-01/739e135814f83a3121b6bd82c1960749.jpg",
-      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/499d8ef8d795c320bbdd75fee2c4f088.jpg",
-      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
-      "link": "http://tv.mynet.iq?ch=channel1#",
-      "sorting_index": 3,
       "awesome_icon": "fa-tape"
     },
     {
       "id": 12,
       "name_en": "Series",
       "name_ar": "المسلسلات",
-      "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
-      "sub_icon": "http://tvapi.shabakaty.com/uploads/2017-01/739e135814f83a3121b6bd82c1960749.jpg",
-      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/499d8ef8d795c320bbdd75fee2c4f088.jpg",
-      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
-      "link": "http://tv.mynet.iq?ch=channel1#",
-      "sorting_index": 4,
       "awesome_icon": "fa-tv"
     },
     {
       "id": 13,
       "name_en": "Entertainment",
       "name_ar": "القنوات الترفيهية",
-      "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
-      "sub_icon": "http://tvapi.shabakaty.com/uploads/2017-01/739e135814f83a3121b6bd82c1960749.jpg",
-      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/499d8ef8d795c320bbdd75fee2c4f088.jpg",
-      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
-      "link": "http://tv.mynet.iq?ch=channel1#",
-      "sorting_index": 5,
       "awesome_icon": "fa-smile-beam"
     },
     {
       "id": 14,
       "name_en": "Kids",
       "name_ar": "الاطفال",
-      "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
-      "sub_icon": "http://tvapi.shabakaty.com/uploads/2017-01/739e135814f83a3121b6bd82c1960749.jpg",
-      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/499d8ef8d795c320bbdd75fee2c4f088.jpg",
-      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
-      "link": "http://tv.mynet.iq?ch=channel1#",
-      "sorting_index": 6,
       "awesome_icon": "fa-puzzle-piece"
+    }
+  ],
+  "channels": [
+    {
+      "id": 230,
+      "name_en": "Channel 6",
+      "name_ar": "القناة السادسة",
+      "id_groups": 10,
+      "logo_name": "On time sport 2",
+      "link": "http://stream.shabakaty.com:6015/sport/ch14/ch14_360.m3u8"
+    },
+    {
+      "id": 229,
+      "name_en": "Channel 5",
+      "name_ar": "القناة الخامسة",
+      "id_groups": 10,
+      "logo_name": "On time sport 1",
+      "link": "http://stream.shabakaty.com:6012/sport/ch11/ch11_360.m3u8"
+    },
+    {
+      "id": 140,
+      "name_en": "Channel 4",
+      "name_ar": "القناة الرابعة",
+      "id_groups": 10,
+      "logo_name": "Alkass 2",
+      "link": "http://stream.shabakaty.com:6017/sport/ch16/ch16_360.m3u8"
+    },
+    {
+      "id": 139,
+      "name_en": "Channel 3",
+      "name_ar": "القناة الثالثة",
+      "id_groups": 10,
+      "logo_name": "Alkass 1",
+      "link": "http://stream.shabakaty.com:6016/sport/ch15/ch15_360.m3u8"
+    },
+    {
+      "id": 54,
+      "name_en": "Channel 2",
+      "name_ar": "القناة الثانية",
+      "id_groups": 10,
+      "logo_name": "SSC 2",
+      "link": "http://stream.shabakaty.com:6011/sport/ch10/ch10_360.m3u8"
+    },
+    {
+      "id": 53,
+      "name_en": "Channel 1",
+      "name_ar": "القناة الاولى",
+      "id_groups": 10,
+      "logo_name": "SSC 1",
+      "link": "http://stream.shabakaty.com:6010/sport/ch9/ch9_360.m3u8"
     }
   ]
 }
