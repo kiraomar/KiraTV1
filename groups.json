@@ -1,92 +1,90 @@
 {
   "api_status": 1,
   "api_message": "success",
-  "groups": [
+  "data": [
     {
-      "id": 10,
-      "name_en": "Sport",
-      "name_ar": "القنوات الرياضية",
-      "awesome_icon": "fa-futbol"
-    },
-    {
-      "id": 15,
-      "name_en": "News",
-      "name_ar": "الاخبار",
-      "awesome_icon": "fa fa-newspaper"
-    },
-    {
-      "id": 11,
-      "name_en": "Movies",
-      "name_ar": "الافلام",
-      "awesome_icon": "fa-tape"
-    },
-    {
-      "id": 12,
-      "name_en": "Series",
-      "name_ar": "المسلسلات",
-      "awesome_icon": "fa-tv"
-    },
-    {
-      "id": 13,
-      "name_en": "Entertainment",
-      "name_ar": "القنوات الترفيهية",
-      "awesome_icon": "fa-smile-beam"
-    },
-    {
-      "id": 14,
-      "name_en": "Kids",
-      "name_ar": "الاطفال",
-      "awesome_icon": "fa-puzzle-piece"
-    }
-  ],
-  "channels": [
-    {
-      "id": 230,
-      "name_en": "Channel 6",
-      "name_ar": "القناة السادسة",
+      "id": 1,
+      "name_en": "Bein Sports 1",
+      "name_ar": "بي إن سبورت 1",
       "id_groups": 10,
-      "logo_name": "On time sport 2",
-      "link": "http://stream.shabakaty.com:6015/sport/ch14/ch14_360.m3u8"
+      "groups_name_en": "Sport",
+      "groups_name_ar": "القنوات الرياضية",
+      "groups_awesome_icon": "fa-futbol",
+      "logo": "http://194.163.160.164/BEIN/BEIN.SPORTS1.png",
+      "mobile_logo": "http://194.163.160.164/BEIN/BEIN.SPORTS1.png",
+      "link": "https://stream.supertv.gg:3002/supertv/sport/stv1/ch1/adaptive.m3u8"
     },
     {
-      "id": 229,
-      "name_en": "Channel 5",
-      "name_ar": "القناة الخامسة",
+      "id": 2,
+      "name_en": "Bein Sports 2",
+      "name_ar": "بي إن سبورت 2",
       "id_groups": 10,
-      "logo_name": "On time sport 1",
-      "link": "http://stream.shabakaty.com:6012/sport/ch11/ch11_360.m3u8"
+      "groups_name_en": "Sport",
+      "groups_name_ar": "القنوات الرياضية",
+      "groups_awesome_icon": "fa-futbol",
+      "logo": "http://194.163.160.164/BEIN/BEIN.SPORTS2.png",
+      "mobile_logo": "http://194.163.160.164/BEIN/BEIN.SPORTS2.png",
+      "link": "https://stream.supertv.gg:3002/supertv/sport/stv1/ch1/adaptive.m3u8"
     },
     {
-      "id": 140,
-      "name_en": "Channel 4",
-      "name_ar": "القناة الرابعة",
-      "id_groups": 10,
-      "logo_name": "Alkass 2",
-      "link": "http://stream.shabakaty.com:6017/sport/ch16/ch16_360.m3u8"
+      "id": 3,
+      "name_en": "BBC News",
+      "name_ar": "بي بي سي نيوز",
+      "id_groups": 15,
+      "groups_name_en": "News",
+      "groups_name_ar": "الاخبار",
+      "groups_awesome_icon": "fa-newspaper",
+      "logo": "http://tvapi.shabakaty.com/uploads/2022-01/469f586b3cda993076cefc39bc872a42.jpg",
+      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2022-01/c3a1226a95d59f3657c7de499e229ffb.jpg",
+      "link": "http://tv.mynet.iq?ch=news1"
     },
     {
-      "id": 139,
-      "name_en": "Channel 3",
-      "name_ar": "القناة الثالثة",
-      "id_groups": 10,
-      "logo_name": "Alkass 1",
-      "link": "http://stream.shabakaty.com:6016/sport/ch15/ch15_360.m3u8"
+      "id": 4,
+      "name_en": "Movie Channel 1",
+      "name_ar": "قناة أفلام 1",
+      "id_groups": 11,
+      "groups_name_en": "Movies",
+      "groups_name_ar": "الافلام",
+      "groups_awesome_icon": "fa-tape",
+      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
+      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
+      "link": "http://tv.mynet.iq?ch=movie1"
     },
     {
-      "id": 54,
-      "name_en": "Channel 2",
-      "name_ar": "القناة الثانية",
-      "id_groups": 10,
-      "logo_name": "SSC 2",
-      "link": "http://stream.shabakaty.com:6011/sport/ch10/ch10_360.m3u8"
+      "id": 5,
+      "name_en": "Series Channel 1",
+      "name_ar": "مسلسلات 1",
+      "id_groups": 12,
+      "groups_name_en": "Series",
+      "groups_name_ar": "المسلسلات",
+      "groups_awesome_icon": "fa-tv",
+      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
+      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
+      "link": "http://tv.mynet.iq?ch=series1"
     },
     {
-      "id": 53,
-      "name_en": "Channel 1",
-      "name_ar": "القناة الاولى",
-      "id_groups": 10,
-      "logo_name": "SSC 1",
-      "link": "http://stream.shabakaty.com:6010/sport/ch9/ch9_360.m3u8"
+      "id": 6,
+      "name_en": "Entertainment Channel 1",
+      "name_ar": "قناة ترفيه 1",
+      "id_groups": 13,
+      "groups_name_en": "Entertainment",
+      "groups_name_ar": "القنوات الترفيهية",
+      "groups_awesome_icon": "fa-smile-beam",
+      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
+      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
+      "link": "http://tv.mynet.iq?ch=entertainment1"
+    },
+    {
+      "id": 7,
+      "name_en": "Kids Channel 1",
+      "name_ar": "قناة أطفال 1",
+      "id_groups": 14,
+      "groups_name_en": "Kids",
+      "groups_name_ar": "الاطفال",
+      "groups_awesome_icon": "fa-puzzle-piece",
+      "logo": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
+      "mobile_logo": "http://tvapi.shabakaty.com/uploads/2017-01/5c272ca934544cb63bc3764b73279865.jpg",
+      "link": "http://tv.mynet.iq?ch=kids1"
     }
   ]
 }
