@@ -14,7 +14,7 @@
       "mobile_logo": "http://194.163.160.164/BEIN/BEIN.SPORTS1.png",
       "real_channel_logo": "http://194.163.160.164/BEIN/BEIN.SPORTS1.png",
       "logo_name": "Bein Sports 1",
-      "link": "http://stream.mytvplus.net:7002/sport/ch1/adaptive.m3u8"
+      "link": "https://stream.supertv.gg:3002/supertv/sport/stv1/ch1/adaptive.m3u8"
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "mobile_logo": "http://194.163.160.164/BEIN/BEIN.SPORTS2.png",
       "real_channel_logo": "http://194.163.160.164/BEIN/BEIN.SPORTS2.png",
       "logo_name": "Bein Sports 2",
-      "link": "http://stream.mytvplus.net:7002/sport/ch2/adaptive.m3u8"
+      "link": "https://stream.supertv.gg:3002/supertv/sport/stv1/ch1/adaptive.m3u8"
     },
     {
       "id": 3,
