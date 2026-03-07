@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "channel_id": "1",
     "name": "متعدد",
     "url": "http://het124a.ycn-redirect.com/live/69854211/index.m3u8",
@@ -12,7 +12,7 @@
     "headers": ""
   },
   {
-    "id": 6,
+    "id": "6",
     "channel_id": "1",
     "name": "FHD",
     "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8",
@@ -24,7 +24,7 @@
     "headers": ""
   },
   {
-    "id": 7,
+    "id": "7",
     "channel_id": "1",
     "name": "HD",
     "url": "http://het122c.ycn-redirect.com/live/69854211/index.m3u8",
@@ -36,7 +36,7 @@
     "headers": ""
   },
   {
-    "id": 8,
+    "id": "8",
     "channel_id": "1",
     "name": "SD",
     "url": "http://het102a.ycn-redirect.com/live/10011244/index.m3u8",
