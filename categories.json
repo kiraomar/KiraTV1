@@ -2,7 +2,7 @@
   "status": true,
   "data": [
     {
-      "id": "1",
+      "id": "yacine",
       "name": "beIN SPORTS",
       "img": "https://cityupload.io/2025/11/unnamed_d6795.png",
       "des": "group"
@@ -14,85 +14,55 @@
       "des": "🇮🇶🇮🇶"
     },
     {
-      "id": "17",
+      "id": "osn",
       "name": "OSN TV",
       "img": "https://cityupload.io/2026/02/٢٠٢٦٠١١١-١٦٥٢٥٣_7ad15.png",
       "des": "group"
     },
     {
-      "id": "26",
+      "id": "be",
       "name": "beIN Entertainment",
       "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٦-١٥١٠٣٢_06999.png",
       "des": "group"
     },
     {
-      "id": "3",
-      "name": "Thamanya",
-      "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-      "des": "group"
-    },
-    {
-      "id": "4",
-      "name": "Starz Play",
-      "img": "https://cityupload.io/2025/11/٢٠٢٥١١٢٢-١٧١٥٢٨.png",
-      "des": "group"
-    },
-    {
-      "id": "5",
-      "name": "Shahid SPORTS",
-      "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٤٧٤٠.png",
-      "des": "group"
-    },
-    {
-      "id": "6",
-      "name": "ARAB SPORTS",
+      "id": "arab",
+      "name":Arabic Sports",
       "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-٠٢٥٥٥٦.png",
       "des": "group"
     },
     {
-      "id": "9",
-      "name": "ENGLISH SPORTS",
-      "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-٠٢٥٦٣٥.png",
-      "des": "group"
-    },
-    {
-      "id": "10",
+      "id":"shahid",
       "name": "شاهد VIP | Shahid ",
       "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-١٥٠١١٥.png",
       "des": "group"
     },
     {
-      "id": "11",
+      "id":"mbc",
       "name": "MBC |أم بي سي ",
       "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-٢٢٠٢٢١.png",
       "des": "group"
     },
     {
-      "id": "12",
+      "id":"rotana",
       "name": "روتانا | Rotana ",
       "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٦-٠٠٠٥٠٩.png",
       "des": "group"
     },
     {
-      "id": "18",
+      "id":"kids",
       "name": "أطفال | Kids",
       "img": "https://cityupload.io/2026/01/٢٠٢٦٠١٠١-١٧٠٧٤٢.png",
       "des": "group"
     },
     {
-      "id": "14",
-      "name": "رؤيا |RUYA",
-      "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٨-١٩١٤٢٥.png",
-      "des": "group"
-    },
-    {
-      "id": "15",
+      "id":"dec",
       "name": "وثائقيات & جغرفيك ",
       "img": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٩-٠١٥٧١٣.png",
       "des": "group"
     },
     {
-      "id": "19",
+      "id":"news",
       "name": "الأخبار | NEWS",
       "img": "https://cityupload.io/2026/01/٢٠٢٦٠١٠٢-١١٢٩٠٧_3aa9e.png",
       "des": "group"
