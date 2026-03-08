@@ -1,12 +1,14 @@
-{
-  "id": 304,
-  "channel_id": "202",
-  "name": "كرايم",
-  "url": "https://bbb.exoadash.com/TVD1344/index.mpd",
-  "userAgent": "",
-  "Referer": "",
-  "otherHeaders": "",
-  "scheme": "normal",
-  "license": "",
-  "headers": ""
-}
+[
+  {
+    "id": 304,
+    "channel_id": "202",
+    "name": "كرايم ",
+    "url": "https://bbb.exoadash.com/TVD1344/index.mpd",
+    "userAgent": "",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "normal",
+    "license": "",
+    "headers": ""
+  }
+]
