@@ -10,5 +10,11 @@
     "name": "MBC 1",
     "img": "https://shahid.mbc.net/mediaObject/cee00d24-d0ee-4382-ac72-b2de5dee0331?height=auto&width=144&croppingPoint=&version=1&type=avif",
     "io": "1"
+  },
+  {
+    "id": "402",
+    "name": "MBC 2",
+    "img": "https://shahid.mbc.net/mediaObject/39923955-895b-4f40-9374-874b1e314566?height=auto&width=144&croppingPoint=&version=1&type=avif",
+    "io": "1"
   }
 ]
