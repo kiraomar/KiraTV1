@@ -4,5 +4,11 @@
     "name": "MBC Drama",
     "img": "https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=144&croppingPoint=&version=1&type=avif",
     "io": "1"
+  },
+  {
+    "id": "401",
+    "name": "MBC 1",
+    "img": "https://shahid.mbc.net/mediaObject/cee00d24-d0ee-4382-ac72-b2de5dee0331?height=auto&width=144&croppingPoint=&version=1&type=avif",
+    "io": "1"
   }
 ]
