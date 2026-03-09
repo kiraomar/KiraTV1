@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "channel_id": "",
+    "name": "mbc2",
+    "url": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd",
+    "userAgent": "",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "clearkey",
+    "license": "e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f",
+    "headers": ""
+  }
+]
