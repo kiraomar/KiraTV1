@@ -40,5 +40,11 @@
     "name": "beIN sports 7",
     "img": "https://iraqapps.github.io/earthlinksport/img/b3.png",
     "io": "1"
+  },
+  {
+    "id": "319",
+    "name": "beIN sports 8",
+    "img": "https://iraqapps.github.io/earthlinksport/img/b8.png",
+    "io": "1"
   }
 ]
