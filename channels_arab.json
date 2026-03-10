@@ -52,5 +52,11 @@
     "name": "Shoof 1",
     "img": "https://shoof.alkass.net/assets/images/shoof1.png",
     "io": "1"
+  },
+  {
+    "id": "959",
+    "name": "Shoof 2",
+    "img": "https://shoof.alkass.net/assets/images/shoof2.png",
+    "io": "1"
   }
 ]
