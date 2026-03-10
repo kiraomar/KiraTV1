@@ -10,5 +10,17 @@
     "scheme": "",
     "license": "",
     "headers": ""
+  },
+  {
+    "id": "2",
+    "channel_id": "",
+    "name": "HD",
+    "url": "https://liveeu-gcp.alkassdigital.net/shooflive/20260219T145623Z/mux_video_720p_ts/index-1.m3u8",
+    "userAgent": "",
+    "Referer": "",
+    "otherHeaders": "",
+    "scheme": "",
+    "license": "",
+    "headers": ""
   }
 ]
