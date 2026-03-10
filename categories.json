@@ -66,6 +66,12 @@
       "name": "الأخبار | NEWS",
       "img": "https://cityupload.io/2026/01/٢٠٢٦٠١٠٢-١١٢٩٠٧_3aa9e.png",
       "des": "group"
+    },
+    {
+      "id": "test",
+      "name": "test",
+      "img": "",
+      "des": "group"
     }
   ]
 }
