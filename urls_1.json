@@ -2,18 +2,6 @@
   {
     "id": 1,
     "channel_id": "1",
-    "name": "متعدد",
-    "url": "http://het124a.ycn-redirect.com/live/69854211/index.m3u8",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-    "Referer": "https://x.com/",
-    "otherHeaders": "",
-    "scheme": "normal",
-    "license": "",
-    "headers": ""
-  },
-  {
-    "id": 6,
-    "channel_id": "1",
     "name": "FHD",
     "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
