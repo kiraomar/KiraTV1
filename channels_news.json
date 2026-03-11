@@ -40,5 +40,11 @@
     "name": "CGTN Arabic",
     "img": "https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg",
     "io": "1"
+  },
+  {
+    "id": "967",
+    "name": "TRT Arabi",
+    "img": "https://i.imgur.com/9Zw34rP.png",
+    "io": "1"
   }
 ]
